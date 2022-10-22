@@ -1,0 +1,10 @@
+[package]
+name = "poac-demo"
+version = "0.1.0"
+authors = []
+edition = 2020
+
+[dependencies]
+"conan::fmt" = "9.1.0"
+"conan::spdlog" = "1.10.0"
+"conan::leveldb" = "1.23"
